@@ -7,16 +7,21 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-    display: flex;
+    /* display: flex;
+    text-align: center; */
+    display: block;
     text-align: center;
 }
+
 
 #ejercicioDos{
     display: none;
 }
+/* Ejercicio 2: Posicionar el header */
 
+/* Acá va tu código */
 #ejercicioTres{
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 200px;
 }
@@ -27,12 +32,30 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 #ejercicioCinco{
     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+#ejercicioSiete{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+}
+
+#elementoUno{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#elementoDos{
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 
 
-/* Ejercicio 2: Posicionar el header */
-
-/* Acá va tu código */
 
 
 
