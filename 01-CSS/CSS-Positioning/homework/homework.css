@@ -7,7 +7,26 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
+    display: flex;
+    text-align: center;
+}
 
+#ejercicioDos{
+    display: none;
+}
+
+#ejercicioTres{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+#ejercicioCuatro{
+    position: fixed;
+    top: 0;
+}
+
+#ejercicioCinco{
+    display: flex;
 }
 
 
