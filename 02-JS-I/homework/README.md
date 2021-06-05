@@ -4,11 +4,11 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+	* Variables las variables son espacios de memoria del computador utilizados para almacenar cierto tipo de datos
+	* Strings es una secuencia de caracteres utilizadas para representar 
+	* Funciones (argumentos, `return`) Las funciones son un bloque de codigo utilizado generalmente para reutilizar cierta parte de codigo N cantidad de veces, sin necesidad de escribir las mismas lineas de codigo multiples veces, los argumentos son los datos que son enviados a traves del llamado de las funciones, y los parametros son los datos que recibe y maneja las funciones
+	* Declaraciones `if` una sentencia if nos permite realizar una comparacion logica y en base al resultado ejecutarnos ciertas lineas de codigo en caso de ser verdadera la condicion en caso contracio ejecutar otras lineas de codigo distintas
+	* Valores booleanos (`true`, `false`) son un tipo de dato, como bien se muestra entre parentesis solo puede tener dos valores true o false Estos son especialmente importantes para las expresiones condicionales y los bucles, ya que representa valores de lógica binaria
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
