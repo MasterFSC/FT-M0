@@ -1,0 +1,7 @@
+Arrays podria considerarse como una agrupaciòn de datos, los cuales podremos acceder a ellos mediante un numero de indexado o posicionamiento utilizando la 
+siguiente estructura:
+
+var arreglo=[dato1, dato2, dato3,...,datosn];
+
+cabe resaltar que para acceder a los datos se toman en cuenta el posicionamiento de derecha a izquierda iniciando de 0 a Nnumero por ejemplo,
+dato1 tiene la posicion 0, dato2 tiene la posicion 1
